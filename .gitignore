@@ -1,0 +1,15 @@
+# Local 환경 설정 및 보안
+.env
+.env.local
+
+# OS 및 에디터 관련
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Azure 및 배포 관련 찌꺼기
+.azure/
+.azure-static-web-apps/
+node_modules/
+*.log
